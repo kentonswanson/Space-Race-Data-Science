@@ -1,1 +1,1 @@
-## For IBM Data Science Capstone
+## Open the PDF for the project writeup.
